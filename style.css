@@ -399,6 +399,7 @@ article .icon {
   background: (250, 250, 250);
   margin: 2rem auto;
   padding: 0.5rem;
+  gap: 20px;
 }
 
 .contact-info-container {
@@ -430,13 +431,4 @@ footer {
 
 footer p {
   text-align: center;
-}
-
-.final{
-padding: 0%;
-margin: 0%;
-}
-
-.bye{
-  width: 10%;
 }

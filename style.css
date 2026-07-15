@@ -359,6 +359,14 @@ article .icon {
   max-width: 32rem;
 }
 
+.experience-vertical {
+  flex-direction: column;
+}
+
+.experience-vertical .job-container {
+  max-width: 100%;
+}
+
 .job-company {
   font-weight: 500;
   color: rgb(85, 85, 85);

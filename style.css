@@ -534,6 +534,14 @@ footer p {
       margin-top: 0;
     }
   }
+
+  @media screen and (max-width: 954px) {
+       .about-containers,
+    .contact-info-upper-container,
+    .btn-container {
+      flex-wrap: wrap;
+    }
+  }
   
   @media screen and (max-width: 600px) {
     #contact,

@@ -354,6 +354,44 @@ article .icon {
   cursor: default;
 }
 
+.job-container {
+  text-align: left;
+  max-width: 32rem;
+}
+
+.job-company {
+  font-weight: 500;
+  color: rgb(85, 85, 85);
+  margin-bottom: 0.25rem;
+}
+
+.job-dates {
+  font-style: italic;
+  color: rgb(120, 120, 120);
+  margin-bottom: 1rem;
+}
+
+.job-bullets {
+  padding-left: 1.2rem;
+}
+
+.job-bullets li {
+  margin-bottom: 0.6rem;
+  line-height: 1.4;
+}
+
+.project-desc {
+  font-size: 0.9rem;
+  color: rgb(85, 85, 85);
+  margin: 0.75rem 0;
+  line-height: 1.4;
+}
+
+.phone-icon {
+  font-size: 1.75rem;
+  line-height: 1;
+}
+
 /* PROJECTS SECTION */
 
 #projects {
